@@ -1,0 +1,34 @@
+@charset 'UTF-8';
+
+#principal{
+    text-align: center;
+    background-color: #0f202181;
+    color: white;
+}
+.topico{
+    text-align: right;
+    color: darkred;
+}
+.texto{
+    text-align: justify;
+    text-indent: 30px;
+    
+}
+
+.basico{
+    color: green;
+}
+
+body{
+    font: normal 1em arial, helvetica, sans-serif;
+    background-color: #6CADA8;
+}
+
+h1{
+    font-size: 2em;
+    color: #163133;
+}
+
+h2{
+    color:#011f26;
+}
